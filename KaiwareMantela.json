@@ -1,0 +1,41 @@
+{
+	"$schema": "https://kusaremkn.github.io/mantela/mantela.schema.json",
+	"version": "0.0.0",
+	"aboutMe": {
+		"identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
+		"name": "KaiwareTEL",
+		"preferredPrefix": [ "308" ]
+	},
+	"extensions": [
+		{
+			"name": "KaiwareMain",
+			"extension": "200",
+			"type": "main"
+		},
+		{
+			"name": "Green",
+			"extension": "201",
+			"type": "phone"
+		}
+	],
+	"providers": [
+		{
+			"identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+			"name": "MIKANETEL",
+			"prefix": "0",
+			"mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+		},
+		{
+			"identifier": "5bbdd9ae-4d41-420c-80df-eba486495b12",
+			"mantela": "https://108jiminy.jp/phone/jiminypublicmantela.json",
+			"name": "jiminy Public",
+			"prefix": "108"
+		},
+		{
+			"identifier": "153048c5-db33-4e00-ad49-694762555d5c",
+			"name": "jiminy Local",
+			"prefix": "119",
+			"mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
+		}
+	]
+}

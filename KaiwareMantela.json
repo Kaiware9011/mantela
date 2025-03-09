@@ -1,5 +1,5 @@
 {
-	"$schema": "https://kusaremkn.github.io/mantela/mantela.schema.json",
+	"$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
 	"version": "0.0.0",
 	"aboutMe": {
 		"identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",

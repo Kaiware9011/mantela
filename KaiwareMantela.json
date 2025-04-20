@@ -1,6 +1,6 @@
 {
-	"$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
-	"version": "0.0.0",
+	"$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+	"version": "0.1.0",
 	"aboutMe": {
 		"identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
 		"name": "KaiwareTEL",
@@ -10,12 +10,12 @@
 		{
 			"name": "KaiwareMain",
 			"extension": "200",
-			"type": "main"
+			"type": "other"
 		},
 		{
 			"name": "Green",
 			"extension": "201",
-			"type": "phone"
+			"type": "dialphone"
 		}
 	],
 	"providers": [
@@ -36,6 +36,12 @@
 			"name": "jiminy Local",
 			"prefix": "119",
 			"mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
+		},
+		{
+			"identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+			"name": "yude",
+			"prefix": "390",
+			"mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json"
 		}
 	]
 }

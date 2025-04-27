@@ -16,6 +16,11 @@
 			"name": "Green",
 			"extension": "201",
 			"type": "dialphone"
+		},
+		{
+			"name": "Test",
+			"extension": "1234",
+			"type": "information"
 		}
 	],
 	"providers": [

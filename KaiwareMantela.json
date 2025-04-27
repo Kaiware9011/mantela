@@ -10,19 +10,19 @@
 		{
 			"name": "KaiwareMain",
 			"extension": "200",
-			"type": "other"
+			"type": "other",
 			"id": "2b603720-8416-5c4e-a470-2791e8dc48d5"
 		},
 		{
 			"name": "Green",
 			"extension": "201",
-			"type": "dialphone"
+			"type": "dialphone",
 			"id": "37258822-c2a8-d7fa-7493-c70c0a9e3cf1"
 		},
 		{
 			"name": "Test",
 			"extension": "1234",
-			"type": "information"
+			"type": "information",
 			"id": "0b8f471b-d0dc-0872-9e0b-4d0542cc9fe9"
 		}
 	],

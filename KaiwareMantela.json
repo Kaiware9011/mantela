@@ -4,7 +4,11 @@
 	"aboutMe": {
 		"identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
 		"name": "KaiwareTEL",
-		"preferredPrefix": [ "308" ]
+		"preferredPrefix": [ "308" ],
+        "sipUri": [
+            "sip:miko.tailf88136.ts.net:5060;transport=udp",
+            "sip:miko.tailf88136.ts.net:5060;transport=tcp"
+        ]
 	},
 	"extensions": [
 		{
